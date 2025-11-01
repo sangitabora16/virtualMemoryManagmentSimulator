@@ -48,7 +48,7 @@ Experiment with different algorithms and configurations to observe performance d
 
 ⚙️ How to Run
 # Clone the repository
-git clone https://github.com/yourusername/virtual-memory-simulator.git
+https://github.com/sangitabora16/virtualMemoryManagmentSimulator
 
 # Navigate to the project directory
 cd virtual-memory-simulator
